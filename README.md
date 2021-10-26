@@ -1,6 +1,6 @@
 # hj3w.github.io
-*** Super-Projet
+* Super-Projet
 
 ** Projet Collaboratif
 
-* à faire : ajouter un fichier '.ignore'
+à faire : ajouter un fichier '.ignore'
